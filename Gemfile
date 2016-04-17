@@ -43,3 +43,7 @@ group :development, :test do
   gem 'spring'
 end
 
+# Elastic Search support
+gem 'elasticsearch-model'
+gem 'elasticsearch-rails'
+
